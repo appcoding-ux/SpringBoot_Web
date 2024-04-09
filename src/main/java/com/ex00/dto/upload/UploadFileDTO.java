@@ -1,4 +1,4 @@
-package com.ex00.dto;
+package com.ex00.dto.upload;
 
 import lombok.Data;
 import org.springframework.web.multipart.MultipartFile;

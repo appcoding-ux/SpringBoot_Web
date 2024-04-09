@@ -1,7 +1,7 @@
 package com.ex00.contoller;
 
-import com.ex00.dto.UploadFileDTO;
-import com.ex00.dto.UploadResultDTO;
+import com.ex00.dto.upload.UploadFileDTO;
+import com.ex00.dto.upload.UploadResultDTO;
 import net.coobird.thumbnailator.Thumbnailator;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.core.io.FileSystemResource;
